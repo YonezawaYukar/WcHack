@@ -12,6 +12,7 @@ git clone https://github.com/YonezawaYukar/WcHack.git
 cd ./WcHack
 
 python wchack.py -v
+
 `
 
 ## How to use it
